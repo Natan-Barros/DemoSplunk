@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ReactiveFileSystemWatcher" Version="0.1.2.1" />
+      <PackageReference Include="Splunk.Client.DotnetCore" Version="1.0.7" />
+    </ItemGroup>
+
+</Project>

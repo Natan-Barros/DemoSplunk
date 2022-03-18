@@ -1,0 +1,10 @@
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\bin\Debug\netcoreapp3.1\POC.Splunk.deps.json
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\bin\Debug\netcoreapp3.1\POC.Splunk.dll
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\bin\Debug\netcoreapp3.1\POC.Splunk.pdb
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.csproj.AssemblyReference.cache
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.AssemblyInfoInputs.cache
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.AssemblyInfo.cs
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.csproj.CoreCompileInputs.cache
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.dll
+C:\Users\natan_barros\Projects\POC.Splunk\POC.Splunk\obj\Debug\netcoreapp3.1\POC.Splunk.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Console.Splunk.test
+build_property.ProjectDir = C:\Users\natan_barros\Projects\POC.Splunk\Console.Splunk.test\
